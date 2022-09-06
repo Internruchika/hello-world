@@ -13,5 +13,6 @@ echo "hello";
 <body>
     <h1>hello world</h1>
     <p>A new line in file</p>
+    <img src="pexels-pixabay-45201.jpg" alt="Hello world image">
 </body>
 </html>
