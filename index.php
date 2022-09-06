@@ -12,7 +12,9 @@ echo "hello";
 </head>
 <body>
     <h1>hello world</h1>
+    <img src="pexels-pixabay-45201.jpg" alt="Hello world image">
     <p>A new line in file</p>
+    <p>this line shows mergeing</p>
     <p>in this line mergeing is shown</p>
     <img src="pexels-pixabay-45201.jpg" alt="Hello world image">
 </body>
